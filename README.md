@@ -5,7 +5,7 @@ Este repositorio contiene un análisis basado en árboles de decisión para la s
 
 ## Contenido
 - **Notebook:** `Seleccion de medicamento-tree.ipynb`
-- **Datos:** Se espera que el conjunto de datos provenga de una fuente externa o se cargue dentro del notebook.
+- **Datos:** Se brindara del archivo CSV.
 - **Modelo:** Se implementa un árbol de decisión para clasificar los medicamentos según los parámetros de entrada.
 - **Evaluación:** Se comparan diferentes métricas y profundidades para optimizar el rendimiento del modelo.
 
