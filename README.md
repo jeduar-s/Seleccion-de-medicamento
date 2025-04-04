@@ -60,6 +60,7 @@ Se implementa un modelo `DecisionTreeClassifier` de `scikit-learn` con los sigui
 
 ## Visualización del Árbol  
 - Se representa gráficamente el árbol entrenado para facilitar la interpretación del modelo y entender cómo se toman las decisiones.
+![image](https://github.com/user-attachments/assets/ec11c424-1d73-43b9-88eb-01d128e35363)
 
 ---
 
